@@ -9,7 +9,7 @@ As IDE I used vscode with platfromio extension.
 
 ![nrf51 sensor tag](Nrf51_sensor_tag.jpg?raw=true "Title")
 
-[schematic](https://s3.amazonaws.com/cutedigi/Sensor/BLEsensortag/sensor_tag_sch_mpu6050.pdf) and other sources I find here.
+[schematic](https://s3.amazonaws.com/cutedigi/Sensor/BLEsensortag/sensor_tag_sch_mpu6050.pdf) and other sources I find [here](https://www.linksprite.com/wiki/index.php?title=Bluetooth_4.0_BLE_Sensor_Tag/iBeacon_Station_NRF51822).
 
 ## Redistribution
 
