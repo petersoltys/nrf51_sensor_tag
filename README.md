@@ -7,7 +7,7 @@ Because the [default firmware](https://s3.amazonaws.com/cutedigi/Sensor/BLEsenso
 The project is created with [platformio](https://platformio.org). 
 As IDE I used vscode with platfromio extension.
 
-![nrf51_sensor_tag][Nrf51_sensor_tag.jpg]
+![nrf51 sensor tag](Nrf51_sensor_tag.jpg?raw=true "Title")
 
 [schematic](https://s3.amazonaws.com/cutedigi/Sensor/BLEsensortag/sensor_tag_sch_mpu6050.pdf) and other sources I find here.
 
